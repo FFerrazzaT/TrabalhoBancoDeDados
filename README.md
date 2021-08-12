@@ -1,5 +1,5 @@
-# TrabalhoBancoDeDados
+## TrabalhoBancoDeDados
 Trabalho final da disciplina de banco de dados
 
 **Imagem do banco de dados**
-![Diagrama](https://user-images.githubusercontent.com/63831714/128655169-688bdfd2-1e3f-4499-a1f8-4f4205e80cfe.jpeg)
+![Diagrama](https://user-images.githubusercontent.com/63831714/129205320-c3ab264b-af98-4d96-8a7a-30d689cb9b5b.png)
