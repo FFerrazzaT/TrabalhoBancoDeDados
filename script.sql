@@ -2,9 +2,6 @@
 Integrantes:
 --Fernando Ferrazza Toniolo
 --Otávio Costa de Oliveira
-
-Video: https://drive.google.com/file/d/1G9j1n2du9R5zGFMXE0LpIPabahC2Kf3B/view?usp=sharing
-
 */
 
 DROP SCHEMA IF EXISTS projetodb;
